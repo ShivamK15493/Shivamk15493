@@ -3,7 +3,7 @@
 
 <br>
 <h2>🕵🏻‍♂️About Me:</h2>
-- 🔭 I’m currently working on **frontend development**
+- 🔭 I’m currently working on frontend development
 
 - 🌱 I’m currently learning **fullstack development**
 
