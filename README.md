@@ -2,14 +2,24 @@
 <h3 align="center">Passionate Frontend Developer Building Interfaces</h3>
 
 <br>
-<h2>🕵🏻‍♂️About Me:</h2>
-- 🔭 I’m working on frontend development
+<h2>🕵🏻‍♂️ About Me</h2>
+--🔭 I’m working on frontend development
 
 - 🌱 I’m currently learning **fullstack development**
 
 - 💬 Ask me about **Website Ideas**
 
-- 📫 How to reach me: **shivamk15493@gmail.com*
+- 📫 How to reach me: shivamk15493@gmail.com
+
+💻 Front-End Developer
+
+🎨 UI / UX Design
+
+🌐 Web Development
+
+🧩 HTML • CSS • JavaScript
+
+⚙️ Responsive & Interactive UI
 
 <h3 align="left">Stay Connected</h3>
 <p align="left">
