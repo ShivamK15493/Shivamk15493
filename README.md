@@ -2,6 +2,7 @@
 <h3 align="center">Passionate Frontend Developer Building Interfaces</h3>
 
 <br>
+<img src="https://komarev.com/ghpvc/?username=ShivamK15493&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 <h2>🕵🏻‍♂️ About Me</h2>
 --🔭 I’m working on frontend development
 
